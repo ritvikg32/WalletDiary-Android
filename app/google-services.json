@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "128085661865",
+    "project_id": "walletdiary-ee2cb",
+    "storage_bucket": "walletdiary-ee2cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128085661865:android:17edf3ac382820d27831b8",
+        "android_client_info": {
+          "package_name": "com.example.walletdiary.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128085661865-c4tbko2vfpcmh2kpbturs9r1ce05s61n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy4fXVzYSOAk96IS90ty6CCZMcKMyU7M8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128085661865-c4tbko2vfpcmh2kpbturs9r1ce05s61n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

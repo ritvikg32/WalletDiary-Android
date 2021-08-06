@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WalletDiary</string>
+    <string name="home_search_query_hint">Search people</string>
+</resources>
